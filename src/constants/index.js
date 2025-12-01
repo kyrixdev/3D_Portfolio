@@ -247,29 +247,6 @@ const testimonials = [
   },
 ];
 
-const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-    url: "https://www.instagram.com/sinpayken/",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-    url: "https://www.facebook.com/kenpatrickgarcia123/"
-  },
-  {
-    name: "github",
-    imgPath: "/images/github1.png",
-    url: "https://github.com/KpG782"
-  },
-  {
-    name: "linkedin",
-    imgPath: "/images/linkedin.png",
-    url: "https://www.linkedin.com/in/ken-patrick-garcia-ba5430285/"
-  },
-];
-
 export {
   words,
   abilities,
@@ -278,7 +255,6 @@ export {
   expCards,
   expLogos,
   testimonials,
-  socialImgs,
   techStackIcons,
   techStackImgs,
   navLinks,
